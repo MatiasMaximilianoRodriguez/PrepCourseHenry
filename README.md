@@ -1,2 +1,3 @@
-# PrepCourseHenry
-Repositorio de prueba para Prep Course de Henry
+Matias Maximiliano Rodriguez
+
+Este proyecto es prueba de como crear un repositorio y clonarlo desde GITHUB a mi computadora.
